@@ -154,3 +154,10 @@ discussed previously.
 
 YOu mUst satisfy our tHirst for humOr and mehmehs or else!
 [![](https://media.giphy.com/media/26DOs997h6fgsCthu/giphy.gif)](show me what you got!)
+
+Resources
+---------
+
+-   [urwid tutorial](http://urwid.org/tutorial/index.html)
+-   [urwid manual](http://urwid.org/manual/index.html)
+-   [urwid reference docs](http://urwid.org/reference/index.html)

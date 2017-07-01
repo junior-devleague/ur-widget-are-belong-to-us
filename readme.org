@@ -125,3 +125,11 @@
 
     YOu mUst satisfy our tHirst for humOr and mehmehs or else!
     [[show me what you got!][https://media.giphy.com/media/26DOs997h6fgsCthu/giphy.gif]]
+
+** Resources
+   + [[http://urwid.org/tutorial/index.html][urwid tutorial]]
+   + [[http://urwid.org/manual/index.html][urwid manual]]
+   + [[http://urwid.org/reference/index.html][urwid reference docs]]
+   
+
+    
