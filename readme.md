@@ -123,9 +123,11 @@ Tasks
 
 2.  Decoration Widgets are special widgets that wrap our application
     widgets. so many widgets! We will use the Decoration Widget
-    `urwid.AttrMap()~[[http://urwid.org/reference/widget.html#attrmap][(docs)]]. This wraps our application
-     widgets with our pre-defined attributes from our ~palette`. update
-    your scratch application with the following starting with `markup`:
+    `urwid.AttrMap()`
+    [(docs)](http://urwid.org/reference/widget.html#attrmap). This wraps
+    our application widgets with our pre-defined attributes from our
+    `palette`. update your scratch application with the following
+    starting with `markup`:
 
     ``` {.python}
     markup = ('banner', "ALL YOUR BASE ARE BELONG TO US")
@@ -153,7 +155,7 @@ might be helpful to apply something like the "informal process"
 discussed previously.
 
 YOu mUst satisfy our tHirst for humOr and mehmehs or else!
-[![](https://media.giphy.com/media/26DOs997h6fgsCthu/giphy.gif)](show me what you got!)
+![](https://media.giphy.com/media/26DOs997h6fgsCthu/giphy.gif)
 
 Resources
 ---------

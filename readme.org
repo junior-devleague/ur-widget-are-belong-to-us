@@ -96,7 +96,7 @@
        #+END_SRC
     2. Decoration Widgets are special widgets that wrap our
        application widgets. so many widgets! We will use the
-       Decoration Widget ~urwid.AttrMap()~[[http://urwid.org/reference/widget.html#attrmap][(docs)]]. This wraps our application
+       Decoration Widget ~urwid.AttrMap()~ [[http://urwid.org/reference/widget.html#attrmap][(docs)]]. This wraps our application
        widgets with our pre-defined attributes from our ~palette~.
        update your scratch application with the following starting
        with ~markup~:
@@ -124,7 +124,7 @@
     "informal process" discussed previously.
 
     YOu mUst satisfy our tHirst for humOr and mehmehs or else!
-    [[show me what you got!][https://media.giphy.com/media/26DOs997h6fgsCthu/giphy.gif]]
+    [[https://media.giphy.com/media/26DOs997h6fgsCthu/giphy.gif]]
 
 ** Resources
    + [[http://urwid.org/tutorial/index.html][urwid tutorial]]
